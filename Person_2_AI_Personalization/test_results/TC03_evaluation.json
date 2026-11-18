@@ -1,0 +1,79 @@
+{
+  "test_id": "TC03",
+  "input": {
+    "relationship": "brother",
+    "personality": [
+      "adventurous",
+      "curious"
+    ],
+    "memories": "We enjoy exploring new places together.",
+    "interests": [
+      "gaming",
+      "technology",
+      "travel"
+    ],
+    "sensory_preferences": [
+      "sight",
+      "sound"
+    ],
+    "desired_emotion": "adventure",
+    "occasion": "birthday",
+    "budget_inr": 2500
+  },
+  "generated_output": {
+    "recipient_profile": {
+      "relationship": "brother",
+      "personality_descriptors": [
+        "adventurous",
+        "curious"
+      ],
+      "interests": [
+        "gaming",
+        "technology",
+        "travel"
+      ],
+      "emotional_theme": "adventure",
+      "sensory_preferences": [
+        "sight",
+        "sound"
+      ],
+      "gift_style": "adventurous",
+      "product_matching_tags": [
+        "technology",
+        "gaming",
+        "travel",
+        "adventure",
+        "experience",
+        "sight",
+        "sound"
+      ],
+      "budget_inr": 2500,
+      "profile_summary": "Brother who loves adventure, gaming, technology and travel, enjoys visual and audio experiences."
+    },
+    "recommendation_directions": [
+      "Explore tech gadgets that enhance travel experiences, gaming accessories with immersive sound, or adventure-themed experiences like outdoor trips or virtual reality tours."
+    ],
+    "match_rationales": [
+      "Gift style 'adventurous' aligns with personality descriptors.",
+      "Product matching tags reflect interests in technology, gaming, travel and sensory preferences for sight and sound."
+    ],
+    "missing_information": [],
+    "safety_note": "All recommendations respect privacy and avoid sensitive content."
+  },
+  "automatic_evaluation": {
+    "Relationship preserved": true,
+    "Budget preserved": true,
+    "Interests preserved": true,
+    "Sensory preferences preserved": true,
+    "Emotional theme preserved": true,
+    "Matching tags generated": true,
+    "Profile summary generated": true
+  },
+  "passed_checks": 7,
+  "total_checks": 7,
+  "manual_review": {
+    "score": 8,
+    "maximum_score": 8,
+    "remarks": "Relevant adventurous personalization with gaming, technology and travel tags."
+  }
+}

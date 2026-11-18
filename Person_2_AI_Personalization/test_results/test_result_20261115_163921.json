@@ -1,0 +1,43 @@
+{
+  "recipient_profile": {
+    "relationship": "sister",
+    "personality_descriptors": [
+      "practical",
+      "creative"
+    ],
+    "interests": [
+      "painting",
+      "reading"
+    ],
+    "emotional_theme": "encouragement",
+    "sensory_preferences": [
+      "sight",
+      "touch"
+    ],
+    "gift_style": "functional yet artistic",
+    "product_matching_tags": [
+      "art supplies",
+      "creative tools",
+      "reading accessories",
+      "personal development"
+    ],
+    "budget_inr": 2000,
+    "profile_summary": "A practical and creative sister who enjoys painting and reading, appreciates visual and tactile experiences, and is celebrating a graduation. She values encouragement and functional yet artistic gifts."
+  },
+  "recommendation_directions": [
+    "Consider gifting items that blend creativity with practicality, such as high‑quality art supplies or personalized reading accessories.",
+    "Explore options that provide tactile engagement and visual appeal, like textured sketchbooks or decorative bookmarks.",
+    "Include elements that celebrate her graduation milestone, such as custom art kits or inspirational reading collections."
+  ],
+  "match_rationales": [
+    "Art supplies and creative tools align with her painting interest and creative personality.",
+    "Reading accessories complement her love of books and tactile preferences.",
+    "Personal development items support her graduation and encourage future growth."
+  ],
+  "missing_information": [
+    "age",
+    "color preference",
+    "specific reading genre"
+  ],
+  "safety_note": "All recommendations avoid sensitive topics and focus on general, non‑controversial gift ideas."
+}

@@ -1,0 +1,78 @@
+{
+  "test_id": "TC01",
+  "input": {
+    "relationship": "best friend",
+    "personality": [
+      "creative",
+      "emotional"
+    ],
+    "memories": "We travelled together and took photographs.",
+    "interests": [
+      "photography",
+      "travel"
+    ],
+    "sensory_preferences": [
+      "sight",
+      "touch"
+    ],
+    "desired_emotion": "nostalgia",
+    "occasion": "birthday",
+    "budget_inr": 1500
+  },
+  "generated_output": {
+    "recipient_profile": {
+      "relationship": "best friend",
+      "personality_descriptors": [
+        "creative",
+        "emotional"
+      ],
+      "interests": [
+        "photography",
+        "travel"
+      ],
+      "emotional_theme": "nostalgia",
+      "sensory_preferences": [
+        "sight",
+        "touch"
+      ],
+      "gift_style": "personalized",
+      "product_matching_tags": [
+        "photography",
+        "travel",
+        "nostalgic",
+        "handcrafted",
+        "personalized"
+      ],
+      "budget_inr": 1500,
+      "profile_summary": "Best friend who loves photography and travel, creative and emotional, nostalgic vibe, prefers sight and touch."
+    },
+    "recommendation_directions": [
+      "Consider personalized photo gifts that evoke shared memories",
+      "Explore travel-themed keepsakes that can be customized",
+      "Look for tactile items that celebrate photography and travel"
+    ],
+    "match_rationales": [
+      "Personalized photo gifts align with nostalgia and shared travel memories",
+      "Travel-themed keepsakes resonate with interests and sensory preferences",
+      "Tactile items cater to touch preference and creative personality"
+    ],
+    "missing_information": [],
+    "safety_note": "All recommendations comply with privacy guidelines and avoid sensitive topics."
+  },
+  "automatic_evaluation": {
+    "Relationship preserved": true,
+    "Budget preserved": true,
+    "Interests preserved": true,
+    "Sensory preferences preserved": true,
+    "Emotional theme preserved": true,
+    "Matching tags generated": true,
+    "Profile summary generated": true
+  },
+  "passed_checks": 7,
+  "total_checks": 7,
+  "manual_review": {
+    "score": 8,
+    "maximum_score": 8,
+    "remarks": "Relevant emotional interpretation and useful product-matching tags."
+  }
+}
