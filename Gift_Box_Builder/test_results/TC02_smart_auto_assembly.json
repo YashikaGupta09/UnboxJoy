@@ -1,0 +1,21 @@
+{
+  "test_case_id": "TC02",
+  "name": "Smart Auto-Assembly Knapsack Optimization",
+  "timestamp": "2026-11-18T22:53:37.006124",
+  "status": "PASSED",
+  "items_selected": [
+    "Candle",
+    "Chocolate",
+    "Photo Frame"
+  ],
+  "senses_covered": [
+    "sight",
+    "smell",
+    "taste"
+  ],
+  "sensory_harmony_score": 60.0,
+  "grand_total": 1203.3,
+  "target_budget": 1500.0,
+  "budget_exceeded": false,
+  "details": "Successfully auto-assembled sensory gift box with 3 items across 3 senses for \u20b91203.30."
+}
