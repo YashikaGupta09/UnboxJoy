@@ -1,0 +1,66 @@
+/* Custom styles and animations for UnboxJoy Gift Box Builder */
+
+@keyframes pulseGlow {
+  0%, 100% {
+    box-shadow: 0 0 15px rgba(245, 158, 11, 0.4);
+  }
+  50% {
+    box-shadow: 0 0 25px rgba(245, 158, 11, 0.8);
+  }
+}
+
+@keyframes unboxLid {
+  0% {
+    transform: translateY(0) rotateX(0deg);
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(-80px) rotateX(-45deg);
+    opacity: 0.1;
+    pointer-events: none;
+  }
+}
+
+@keyframes itemReveal {
+  0% {
+    opacity: 0;
+    transform: scale(0.85) translateY(20px);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+  }
+}
+
+.box-pulse {
+  animation: pulseGlow 2.5s infinite ease-in-out;
+}
+
+.lid-open {
+  animation: unboxLid 0.8s forwards cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.reveal-item {
+  animation: itemReveal 0.6s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+/* Calligraphy font styling for greeting card */
+.font-handwriting {
+  font-family: 'Caveat', 'Segoe Script', 'Brush Script MT', cursive;
+}
+
+/* Custom scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f5f9;
+}
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
