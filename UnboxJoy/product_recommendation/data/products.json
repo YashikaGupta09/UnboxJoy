@@ -1,4 +1,3 @@
-
 {
   "products": [
     {
@@ -9,10 +8,22 @@
       "price": 899,
       "currency": "INR",
       "description": "A vibrant and artistic photo frame designed to preserve special memories while adding a cheerful aesthetic to work desks and bedside tables.",
-      "emotional_tags": ["nostalgia", "happiness", "thoughtfulness"],
-      "interest_tags": ["photography", "home_decor"],
+      "emotional_tags": [
+        "nostalgia",
+        "happiness",
+        "thoughtfulness"
+      ],
+      "interest_tags": [
+        "photography",
+        "home_decor"
+      ],
       "image_url": "",
-      "product_url": "https://www.chumbak.com"
+      "product_url": "https://www.chumbak.com",
+      "theme_tags": [
+        "nostalgia",
+        "personalized_memories",
+        "cheerful_spaces"
+      ]
     },
     {
       "product_id": "SIGHT002",
@@ -22,10 +33,22 @@
       "price": 1499,
       "currency": "INR",
       "description": "Iron tea light votives featuring vibrant botanical floral designs on a grey base, creating a warm and decorative ambience for living spaces.",
-      "emotional_tags": ["relaxation", "luxury", "comfort"],
-      "interest_tags": ["home_decor", "art"],
+      "emotional_tags": [
+        "relaxation",
+        "luxury",
+        "comfort"
+      ],
+      "interest_tags": [
+        "home_decor",
+        "art"
+      ],
       "image_url": "",
-      "product_url": "https://indiacircus.com/grey-floral-galore-tea-light-votives-set-of-2.html"
+      "product_url": "https://indiacircus.com/grey-floral-galore-tea-light-votives-set-of-2.html",
+      "theme_tags": [
+        "cozy_ambience",
+        "relaxation",
+        "home_elegance"
+      ]
     },
     {
       "product_id": "SIGHT003",
@@ -35,10 +58,23 @@
       "price": 999,
       "currency": "INR",
       "description": "An artisanal wooden photo frame decorated with traditional floral and elephant motifs, making it a thoughtful keepsake for birthdays and special milestones.",
-      "emotional_tags": ["nostalgia", "thoughtfulness", "comfort"],
-      "interest_tags": ["photography", "home_decor", "art"],
+      "emotional_tags": [
+        "nostalgia",
+        "thoughtfulness",
+        "comfort"
+      ],
+      "interest_tags": [
+        "photography",
+        "home_decor",
+        "art"
+      ],
       "image_url": "",
-      "product_url": "https://www.fabindia.com/white-gaj-wooden-photo-frame-20291340"
+      "product_url": "https://www.fabindia.com/white-gaj-wooden-photo-frame-20291340",
+      "theme_tags": [
+        "nostalgia",
+        "cultural_heritage",
+        "personalized_memories"
+      ]
     },
     {
       "product_id": "SIGHT004",
@@ -48,10 +84,23 @@
       "price": 999,
       "currency": "INR",
       "description": "A collection of six framed traditional Indian art prints featuring Madhubani and Pichwai-inspired motifs, adding cultural character and creativity to home interiors.",
-      "emotional_tags": ["creativity", "happiness", "thoughtfulness"],
-      "interest_tags": ["art", "home_decor", "nature"],
+      "emotional_tags": [
+        "creativity",
+        "happiness",
+        "thoughtfulness"
+      ],
+      "interest_tags": [
+        "art",
+        "home_decor",
+        "nature"
+      ],
       "image_url": "",
-      "product_url": "https://artstreet.in/products/madhubani-pichwai-painting-with-frame-for-living-room-flower-framed-wall-art-painting-for-home-decor-set-of-6-size-9-5-by-12-5-inch"
+      "product_url": "https://artstreet.in/products/madhubani-pichwai-painting-with-frame-for-living-room-flower-framed-wall-art-painting-for-home-decor-set-of-6-size-9-5-by-12-5-inch",
+      "theme_tags": [
+        "cultural_heritage",
+        "creative_expression",
+        "artistic_spaces"
+      ]
     },
     {
       "product_id": "SIGHT005",
@@ -61,10 +110,22 @@
       "price": 225,
       "currency": "INR",
       "description": "Flexible copper wire fairy lights with 50 warm white LEDs that add a cozy decorative glow to bedrooms, jars, shelves and photo displays.",
-      "emotional_tags": ["romantic", "relaxation", "comfort"],
-      "interest_tags": ["home_decor", "photography"],
+      "emotional_tags": [
+        "romantic",
+        "relaxation",
+        "comfort"
+      ],
+      "interest_tags": [
+        "home_decor",
+        "photography"
+      ],
       "image_url": "",
-      "product_url": "https://www.homesake.in/products/50-led-fairy-copper-string-lights-5m-waterproof-3aa-battery-warm-white-1"
+      "product_url": "https://www.homesake.in/products/50-led-fairy-copper-string-lights-5m-waterproof-3aa-battery-warm-white-1",
+      "theme_tags": [
+        "cozy_ambience",
+        "relaxation",
+        "romantic_moments"
+      ]
     },
     {
       "product_id": "SIGHT006",
@@ -74,10 +135,23 @@
       "price": 549,
       "currency": "INR",
       "description": "A miniature metal figurine set depicting traditional Rajasthani folk musicians, bringing colourful cultural artistry to desks, shelves and decorative corners.",
-      "emotional_tags": ["creativity", "happiness", "thoughtfulness"],
-      "interest_tags": ["art", "music", "home_decor"],
+      "emotional_tags": [
+        "creativity",
+        "happiness",
+        "thoughtfulness"
+      ],
+      "interest_tags": [
+        "art",
+        "music",
+        "home_decor"
+      ],
       "image_url": "",
-      "product_url": "https://kraphy.com/products/mini-rajasthani-musician-couple-metal-showpiece-set-6-inch"
+      "product_url": "https://kraphy.com/products/mini-rajasthani-musician-couple-metal-showpiece-set-6-inch",
+      "theme_tags": [
+        "cultural_heritage",
+        "creative_expression",
+        "music_memories"
+      ]
     },
     {
       "product_id": "SIGHT007",
@@ -87,10 +161,23 @@
       "price": 999,
       "currency": "INR",
       "description": "Handcrafted terracotta miniature pots decorated with traditional Warli art motifs, offering a distinctive handmade decorative accent for tables and bookshelves.",
-      "emotional_tags": ["creativity", "nostalgia", "thoughtfulness"],
-      "interest_tags": ["art", "home_decor", "nature"],
+      "emotional_tags": [
+        "creativity",
+        "nostalgia",
+        "thoughtfulness"
+      ],
+      "interest_tags": [
+        "art",
+        "home_decor",
+        "nature"
+      ],
       "image_url": "",
-      "product_url": "https://exclusivelane.com/products/terracotta-warli-handpainted-pots-white-set-of-2-el-004-005"
+      "product_url": "https://exclusivelane.com/products/terracotta-warli-handpainted-pots-white-set-of-2-el-004-005",
+      "theme_tags": [
+        "cultural_heritage",
+        "handcrafted_charm",
+        "nature_inspired"
+      ]
     },
     {
       "product_id": "SIGHT008",
@@ -100,10 +187,22 @@
       "price": 749,
       "currency": "INR",
       "description": "A sculptural tabletop figurine inspired by surrealist art that adds visual curiosity and a creative touch to study desks, bookshelves and workspaces.",
-      "emotional_tags": ["creativity", "thoughtfulness"],
-      "interest_tags": ["art", "home_decor", "reading"],
+      "emotional_tags": [
+        "creativity",
+        "thoughtfulness"
+      ],
+      "interest_tags": [
+        "art",
+        "home_decor",
+        "reading"
+      ],
       "image_url": "",
-      "product_url": "https://theartment.com/products/surreal-bricked-man-table-accent"
+      "product_url": "https://theartment.com/products/surreal-bricked-man-table-accent",
+      "theme_tags": [
+        "creative_expression",
+        "artistic_spaces",
+        "curiosity"
+      ]
     },
     {
       "product_id": "SIGHT009",
@@ -113,10 +212,22 @@
       "price": 999,
       "currency": "INR",
       "description": "A decorative snow globe featuring a romantic couple and swirling snowflake details, designed as a sentimental keepsake for special occasions.",
-      "emotional_tags": ["romantic", "nostalgia", "happiness"],
-      "interest_tags": ["home_decor", "art"],
+      "emotional_tags": [
+        "romantic",
+        "nostalgia",
+        "happiness"
+      ],
+      "interest_tags": [
+        "home_decor",
+        "art"
+      ],
       "image_url": "",
-      "product_url": "https://archiesonline.com/products/violet-romantic-couple-musical-snow-globe"
+      "product_url": "https://archiesonline.com/products/violet-romantic-couple-musical-snow-globe",
+      "theme_tags": [
+        "romantic_moments",
+        "nostalgia",
+        "sentimental_gifting"
+      ]
     },
     {
       "product_id": "SIGHT010",
@@ -126,10 +237,22 @@
       "price": 999,
       "currency": "INR",
       "description": "A ready-to-hang A3 framed poster featuring traditional Indian-inspired motifs and artistic patterns, adding a contemporary cultural touch to home interiors.",
-      "emotional_tags": ["creativity", "thoughtfulness", "relaxation"],
-      "interest_tags": ["art", "home_decor"],
+      "emotional_tags": [
+        "creativity",
+        "thoughtfulness",
+        "relaxation"
+      ],
+      "interest_tags": [
+        "art",
+        "home_decor"
+      ],
       "image_url": "",
-      "product_url": "https://artstreet.in/products/abstract-indian-traditional-a3-framed-poster-for-living-room-with-frame-womens-day-gift-abstract-architecture-framed-posters-for-home-decor-bedroom"
+      "product_url": "https://artstreet.in/products/abstract-indian-traditional-a3-framed-poster-for-living-room-with-frame-womens-day-gift-abstract-architecture-framed-posters-for-home-decor-bedroom",
+      "theme_tags": [
+        "cultural_heritage",
+        "creative_expression",
+        "artistic_spaces"
+      ]
     },
     {
       "product_id": "SMELL001",
@@ -139,10 +262,22 @@
       "price": 499,
       "currency": "INR",
       "description": "A lavender-scented candle designed to create a calm and relaxing atmosphere, making it suitable for peaceful evenings and self-care moments.",
-      "emotional_tags": ["relaxation", "comfort", "self_care"],
-      "interest_tags": ["home_decor", "nature"],
+      "emotional_tags": [
+        "relaxation",
+        "comfort",
+        "self_care"
+      ],
+      "interest_tags": [
+        "home_decor",
+        "nature"
+      ],
       "image_url": "",
-      "product_url": ""
+      "product_url": "",
+      "theme_tags": [
+        "relaxation",
+        "self_care",
+        "cozy_ambience"
+      ]
     },
     {
       "product_id": "SMELL002",
@@ -152,10 +287,21 @@
       "price": 599,
       "currency": "INR",
       "description": "A decorative scented candle that adds fragrance and warmth to a personal space, making an ordinary room feel more welcoming.",
-      "emotional_tags": ["comfort", "luxury", "relaxation"],
-      "interest_tags": ["home_decor"],
+      "emotional_tags": [
+        "comfort",
+        "luxury",
+        "relaxation"
+      ],
+      "interest_tags": [
+        "home_decor"
+      ],
       "image_url": "",
-      "product_url": ""
+      "product_url": "",
+      "theme_tags": [
+        "cozy_ambience",
+        "relaxation",
+        "home_elegance"
+      ]
     },
     {
       "product_id": "SMELL003",
@@ -165,10 +311,22 @@
       "price": 899,
       "currency": "INR",
       "description": "A sweet vanilla-fragrance perfume for someone who enjoys warm, pleasant scents and personal-care products.",
-      "emotional_tags": ["happiness", "comfort", "luxury"],
-      "interest_tags": ["fashion", "self_care"],
+      "emotional_tags": [
+        "happiness",
+        "comfort",
+        "luxury"
+      ],
+      "interest_tags": [
+        "fashion",
+        "self_care"
+      ],
       "image_url": "",
-      "product_url": ""
+      "product_url": "",
+      "theme_tags": [
+        "self_care",
+        "personal_style",
+        "everyday_luxury"
+      ]
     },
     {
       "product_id": "SMELL004",
@@ -178,10 +336,22 @@
       "price": 599,
       "currency": "INR",
       "description": "A personal fragrance presented as a gifting option for someone who enjoys trying different perfumes and building a fragrance collection.",
-      "emotional_tags": ["happiness", "happiness", "luxury"],
-      "interest_tags": ["fashion", "self_care"],
+      "emotional_tags": [
+        "happiness",
+        "happiness",
+        "luxury"
+      ],
+      "interest_tags": [
+        "fashion",
+        "self_care"
+      ],
       "image_url": "",
-      "product_url": ""
+      "product_url": "",
+      "theme_tags": [
+        "personal_style",
+        "everyday_luxury",
+        "celebration"
+      ]
     },
     {
       "product_id": "SMELL005",
@@ -191,10 +361,22 @@
       "price": 799,
       "currency": "INR",
       "description": "A floral-inspired personal fragrance that makes a thoughtful gift for someone who enjoys fresh and expressive scents.",
-      "emotional_tags": ["happiness", "romantic", "thoughtfulness"],
-      "interest_tags": ["fashion", "self_care"],
+      "emotional_tags": [
+        "happiness",
+        "romantic",
+        "thoughtfulness"
+      ],
+      "interest_tags": [
+        "fashion",
+        "self_care"
+      ],
       "image_url": "",
-      "product_url": ""
+      "product_url": "",
+      "theme_tags": [
+        "personal_style",
+        "romantic_moments",
+        "thoughtful_gifting"
+      ]
     },
     {
       "product_id": "SMELL006",
@@ -204,10 +386,21 @@
       "price": 350,
       "currency": "INR",
       "description": "A lavender-scented essential oil for fragrance enthusiasts who enjoy exploring botanical scents and creating a pleasant home environment.",
-      "emotional_tags": ["relaxation", "self_care", "comfort"],
-      "interest_tags": ["nature"],
+      "emotional_tags": [
+        "relaxation",
+        "self_care",
+        "comfort"
+      ],
+      "interest_tags": [
+        "nature"
+      ],
       "image_url": "",
-      "product_url": ""
+      "product_url": "",
+      "theme_tags": [
+        "relaxation",
+        "self_care",
+        "nature_inspired"
+      ]
     },
     {
       "product_id": "SMELL007",
@@ -217,10 +410,21 @@
       "price": 350,
       "currency": "INR",
       "description": "A botanical essential oil with a distinctive herbal fragrance, suitable as a small gift for someone interested in natural fragrance products.",
-      "emotional_tags": ["self_care", "thoughtfulness", "adventure"],
-      "interest_tags": ["nature"],
+      "emotional_tags": [
+        "self_care",
+        "thoughtfulness",
+        "adventure"
+      ],
+      "interest_tags": [
+        "nature"
+      ],
       "image_url": "",
-      "product_url": ""
+      "product_url": "",
+      "theme_tags": [
+        "nature_inspired",
+        "self_care",
+        "thoughtful_gifting"
+      ]
     },
     {
       "product_id": "SMELL008",
@@ -230,10 +434,21 @@
       "price": 499,
       "currency": "INR",
       "description": "A home fragrance diffuser that gradually releases fragrance into a room, making it a decorative and practical gift for home-lovers.",
-      "emotional_tags": ["comfort", "relaxation", "luxury"],
-      "interest_tags": ["home_decor"],
+      "emotional_tags": [
+        "comfort",
+        "relaxation",
+        "luxury"
+      ],
+      "interest_tags": [
+        "home_decor"
+      ],
       "image_url": "",
-      "product_url": ""
+      "product_url": "",
+      "theme_tags": [
+        "cozy_ambience",
+        "relaxation",
+        "home_elegance"
+      ]
     },
     {
       "product_id": "SMELL009",
@@ -243,10 +458,22 @@
       "price": 999,
       "currency": "INR",
       "description": "A compact home-fragrance accessory designed to complement a personal space and create a pleasant atmosphere.",
-      "emotional_tags": ["relaxation", "comfort", "self_care"],
-      "interest_tags": ["home_decor", "nature"],
+      "emotional_tags": [
+        "relaxation",
+        "comfort",
+        "self_care"
+      ],
+      "interest_tags": [
+        "home_decor",
+        "nature"
+      ],
       "image_url": "",
-      "product_url": ""
+      "product_url": "",
+      "theme_tags": [
+        "relaxation",
+        "self_care",
+        "cozy_ambience"
+      ]
     },
     {
       "product_id": "SMELL010",
@@ -256,10 +483,22 @@
       "price": 499,
       "currency": "INR",
       "description": "A rose-fragrance candle that makes a thoughtful gift for someone who enjoys floral scents, cosy surroundings and meaningful little gestures.",
-      "emotional_tags": ["romantic", "nostalgia", "happiness"],
-      "interest_tags": ["home_decor", "nature"],
+      "emotional_tags": [
+        "romantic",
+        "nostalgia",
+        "happiness"
+      ],
+      "interest_tags": [
+        "home_decor",
+        "nature"
+      ],
       "image_url": "",
-      "product_url": ""
+      "product_url": "",
+      "theme_tags": [
+        "romantic_moments",
+        "nostalgia",
+        "cozy_ambience"
+      ]
     },
     {
       "product_id": "SOUND001",
@@ -269,10 +508,23 @@
       "price": 1499,
       "currency": "INR",
       "description": "A compact portable Bluetooth speaker designed to deliver music during travel, outdoor activities and everyday relaxation.",
-      "emotional_tags": ["happiness", "adventure", "relaxation"],
-      "interest_tags": ["music", "travel", "gaming"],
+      "emotional_tags": [
+        "happiness",
+        "adventure",
+        "relaxation"
+      ],
+      "interest_tags": [
+        "music",
+        "travel",
+        "gaming"
+      ],
       "image_url": "",
-      "product_url": ""
+      "product_url": "",
+      "theme_tags": [
+        "adventure",
+        "shared_moments",
+        "music_memories"
+      ]
     },
     {
       "product_id": "SOUND002",
@@ -282,10 +534,23 @@
       "price": 1199,
       "currency": "INR",
       "description": "A portable Bluetooth speaker for enjoying favourite songs, creating a pleasant atmosphere and sharing music with friends and family.",
-      "emotional_tags": ["happiness", "comfort", "relaxation"],
-      "interest_tags": ["music", "movies", "travel"],
+      "emotional_tags": [
+        "happiness",
+        "comfort",
+        "relaxation"
+      ],
+      "interest_tags": [
+        "music",
+        "movies",
+        "travel"
+      ],
       "image_url": "",
-      "product_url": ""
+      "product_url": "",
+      "theme_tags": [
+        "shared_moments",
+        "music_memories",
+        "cozy_ambience"
+      ]
     },
     {
       "product_id": "SOUND003",
@@ -295,10 +560,22 @@
       "price": 499,
       "currency": "INR",
       "description": "An affordable compact speaker for casual music listening at home, during study breaks or while spending time with friends.",
-      "emotional_tags": ["happiness", "comfort"],
-      "interest_tags": ["music", "movies", "gaming"],
+      "emotional_tags": [
+        "happiness",
+        "comfort"
+      ],
+      "interest_tags": [
+        "music",
+        "movies",
+        "gaming"
+      ],
       "image_url": "",
-      "product_url": ""
+      "product_url": "",
+      "theme_tags": [
+        "everyday_entertainment",
+        "shared_moments",
+        "music_memories"
+      ]
     },
     {
       "product_id": "SOUND004",
@@ -308,10 +585,23 @@
       "price": 799,
       "currency": "INR",
       "description": "A small portable speaker that makes it convenient to enjoy music and audio entertainment in personal spaces and during short trips.",
-      "emotional_tags": ["relaxation", "happiness", "comfort"],
-      "interest_tags": ["music", "travel", "movies"],
+      "emotional_tags": [
+        "relaxation",
+        "happiness",
+        "comfort"
+      ],
+      "interest_tags": [
+        "music",
+        "travel",
+        "movies"
+      ],
       "image_url": "",
-      "product_url": ""
+      "product_url": "",
+      "theme_tags": [
+        "travel_companionship",
+        "music_memories",
+        "everyday_entertainment"
+      ]
     },
     {
       "product_id": "SOUND005",
@@ -321,10 +611,23 @@
       "price": 499,
       "currency": "INR",
       "description": "A small mechanical music box that plays a gentle melody when its hand crank is turned, making it a nostalgic keepsake for music lovers.",
-      "emotional_tags": ["nostalgia", "comfort", "thoughtfulness"],
-      "interest_tags": ["music", "home_decor", "reading"],
+      "emotional_tags": [
+        "nostalgia",
+        "comfort",
+        "thoughtfulness"
+      ],
+      "interest_tags": [
+        "music",
+        "home_decor",
+        "reading"
+      ],
       "image_url": "",
-      "product_url": ""
+      "product_url": "",
+      "theme_tags": [
+        "nostalgia",
+        "music_memories",
+        "sentimental_gifting"
+      ]
     },
     {
       "product_id": "SOUND006",
@@ -334,10 +637,23 @@
       "price": 999,
       "currency": "INR",
       "description": "A decorative musical jewellery box that combines a keepsake storage space with a gentle melody, making it a sentimental gift.",
-      "emotional_tags": ["nostalgia", "happiness", "thoughtfulness"],
-      "interest_tags": ["music", "fashion", "home_decor"],
+      "emotional_tags": [
+        "nostalgia",
+        "happiness",
+        "thoughtfulness"
+      ],
+      "interest_tags": [
+        "music",
+        "fashion",
+        "home_decor"
+      ],
       "image_url": "",
-      "product_url": ""
+      "product_url": "",
+      "theme_tags": [
+        "nostalgia",
+        "personal_treasures",
+        "music_memories"
+      ]
     },
     {
       "product_id": "SOUND007",
@@ -347,10 +663,23 @@
       "price": 1499,
       "currency": "INR",
       "description": "A vinyl music collectible for listeners who appreciate classic recordings, physical music collections and the nostalgic experience of record listening.",
-      "emotional_tags": ["nostalgia", "happiness", "luxury"],
-      "interest_tags": ["music", "movies", "art"],
+      "emotional_tags": [
+        "nostalgia",
+        "happiness",
+        "luxury"
+      ],
+      "interest_tags": [
+        "music",
+        "movies",
+        "art"
+      ],
       "image_url": "",
-      "product_url": ""
+      "product_url": "",
+      "theme_tags": [
+        "nostalgia",
+        "music_memories",
+        "collectors_delight"
+      ]
     },
     {
       "product_id": "SOUND008",
@@ -360,10 +689,23 @@
       "price": 1499,
       "currency": "INR",
       "description": "A physical collection of Indian film music intended for listeners who enjoy classic Bollywood melodies and collecting music records.",
-      "emotional_tags": ["nostalgia", "happiness", "romantic"],
-      "interest_tags": ["music", "movies", "art"],
+      "emotional_tags": [
+        "nostalgia",
+        "happiness",
+        "romantic"
+      ],
+      "interest_tags": [
+        "music",
+        "movies",
+        "art"
+      ],
       "image_url": "",
-      "product_url": ""
+      "product_url": "",
+      "theme_tags": [
+        "nostalgia",
+        "music_memories",
+        "cinema_memories"
+      ]
     },
     {
       "product_id": "SOUND009",
@@ -373,10 +715,22 @@
       "price": 299,
       "currency": "INR",
       "description": "A practical guitar accessory that helps players change the pitch of their instrument while exploring different songs and musical arrangements.",
-      "emotional_tags": ["creativity", "happiness", "thoughtfulness"],
-      "interest_tags": ["music", "writing"],
+      "emotional_tags": [
+        "creativity",
+        "happiness",
+        "thoughtfulness"
+      ],
+      "interest_tags": [
+        "music",
+        "writing"
+      ],
       "image_url": "",
-      "product_url": ""
+      "product_url": "",
+      "theme_tags": [
+        "creative_expression",
+        "musical_journey",
+        "personal_growth"
+      ]
     },
     {
       "product_id": "SOUND010",
@@ -386,10 +740,21 @@
       "price": 249,
       "currency": "INR",
       "description": "A set of guitar picks for strumming and picking strings, making a useful small gift for guitar learners and music enthusiasts.",
-      "emotional_tags": ["creativity", "happiness"],
-      "interest_tags": ["music", "art"],
+      "emotional_tags": [
+        "creativity",
+        "happiness"
+      ],
+      "interest_tags": [
+        "music",
+        "art"
+      ],
       "image_url": "",
-      "product_url": ""
+      "product_url": "",
+      "theme_tags": [
+        "creative_expression",
+        "musical_journey",
+        "thoughtful_gifting"
+      ]
     },
     {
       "product_id": "TASTE001",
@@ -399,10 +764,21 @@
       "price": 999,
       "currency": "INR",
       "description": "An assorted chocolate gift box for someone who enjoys exploring rich chocolate flavours and receiving thoughtfully presented treats.",
-      "emotional_tags": ["happiness", "luxury", "thoughtfulness"],
-      "interest_tags": ["food"],
+      "emotional_tags": [
+        "happiness",
+        "luxury",
+        "thoughtfulness"
+      ],
+      "interest_tags": [
+        "food"
+      ],
       "image_url": "",
-      "product_url": ""
+      "product_url": "",
+      "theme_tags": [
+        "celebration",
+        "everyday_luxury",
+        "thoughtful_gifting"
+      ]
     },
     {
       "product_id": "TASTE002",
@@ -412,10 +788,21 @@
       "price": 350,
       "currency": "INR",
       "description": "A dark chocolate treat for someone who appreciates distinctive cocoa flavours and enjoys trying premium chocolate.",
-      "emotional_tags": ["comfort", "luxury", "happiness"],
-      "interest_tags": ["food"],
+      "emotional_tags": [
+        "comfort",
+        "luxury",
+        "happiness"
+      ],
+      "interest_tags": [
+        "food"
+      ],
       "image_url": "",
-      "product_url": ""
+      "product_url": "",
+      "theme_tags": [
+        "everyday_luxury",
+        "comfort",
+        "small_indulgences"
+      ]
     },
     {
       "product_id": "TASTE003",
@@ -425,10 +812,21 @@
       "price": 599,
       "currency": "INR",
       "description": "A chocolate assortment that makes a cheerful gift for someone who enjoys sweet treats and sharing small moments of happiness.",
-      "emotional_tags": ["happiness", "nostalgia", "thoughtfulness"],
-      "interest_tags": ["food"],
+      "emotional_tags": [
+        "happiness",
+        "nostalgia",
+        "thoughtfulness"
+      ],
+      "interest_tags": [
+        "food"
+      ],
       "image_url": "",
-      "product_url": ""
+      "product_url": "",
+      "theme_tags": [
+        "celebration",
+        "shared_moments",
+        "thoughtful_gifting"
+      ]
     },
     {
       "product_id": "TASTE004",
@@ -438,10 +836,22 @@
       "price": 399,
       "currency": "INR",
       "description": "A coffee selection for someone who enjoys the familiar aroma and comforting ritual of preparing and drinking coffee.",
-      "emotional_tags": ["comfort", "nostalgia", "relaxation"],
-      "interest_tags": ["coffee", "food"],
+      "emotional_tags": [
+        "comfort",
+        "nostalgia",
+        "relaxation"
+      ],
+      "interest_tags": [
+        "coffee",
+        "food"
+      ],
       "image_url": "",
-      "product_url": ""
+      "product_url": "",
+      "theme_tags": [
+        "cozy_rituals",
+        "nostalgia",
+        "comfort"
+      ]
     },
     {
       "product_id": "TASTE005",
@@ -451,10 +861,22 @@
       "price": 599,
       "currency": "INR",
       "description": "A specialty coffee gift for someone who enjoys exploring coffee flavours, brewing methods and relaxed coffee breaks.",
-      "emotional_tags": ["adventure", "happiness", "luxury"],
-      "interest_tags": ["coffee", "food"],
+      "emotional_tags": [
+        "adventure",
+        "happiness",
+        "luxury"
+      ],
+      "interest_tags": [
+        "coffee",
+        "food"
+      ],
       "image_url": "",
-      "product_url": ""
+      "product_url": "",
+      "theme_tags": [
+        "discovery",
+        "cozy_rituals",
+        "everyday_luxury"
+      ]
     },
     {
       "product_id": "TASTE006",
@@ -464,10 +886,22 @@
       "price": 799,
       "currency": "INR",
       "description": "An assortment of teas for someone who enjoys trying different flavours and making tea time a relaxing daily ritual.",
-      "emotional_tags": ["relaxation", "comfort", "thoughtfulness"],
-      "interest_tags": ["food", "nature"],
+      "emotional_tags": [
+        "relaxation",
+        "comfort",
+        "thoughtfulness"
+      ],
+      "interest_tags": [
+        "food",
+        "nature"
+      ],
       "image_url": "",
-      "product_url": ""
+      "product_url": "",
+      "theme_tags": [
+        "relaxation",
+        "cozy_rituals",
+        "thoughtful_gifting"
+      ]
     },
     {
       "product_id": "TASTE007",
@@ -477,10 +911,22 @@
       "price": 399,
       "currency": "INR",
       "description": "A distinctive tea selection inspired by traditional Kashmiri kahwa, suitable for someone who enjoys exploring regional flavours.",
-      "emotional_tags": ["nostalgia", "comfort", "adventure"],
-      "interest_tags": ["food", "nature"],
+      "emotional_tags": [
+        "nostalgia",
+        "comfort",
+        "adventure"
+      ],
+      "interest_tags": [
+        "food",
+        "nature"
+      ],
       "image_url": "",
-      "product_url": ""
+      "product_url": "",
+      "theme_tags": [
+        "cultural_heritage",
+        "discovery",
+        "cozy_rituals"
+      ]
     },
     {
       "product_id": "TASTE008",
@@ -490,10 +936,21 @@
       "price": 299,
       "currency": "INR",
       "description": "A pack of flavoured makhana for someone who enjoys trying different savoury snacks and discovering new food combinations.",
-      "emotional_tags": ["happiness", "comfort", "thoughtfulness"],
-      "interest_tags": ["food"],
+      "emotional_tags": [
+        "happiness",
+        "comfort",
+        "thoughtfulness"
+      ],
+      "interest_tags": [
+        "food"
+      ],
       "image_url": "",
-      "product_url": ""
+      "product_url": "",
+      "theme_tags": [
+        "everyday_treats",
+        "discovery",
+        "thoughtful_gifting"
+      ]
     },
     {
       "product_id": "TASTE009",
@@ -503,10 +960,21 @@
       "price": 699,
       "currency": "INR",
       "description": "A selection of baked treats for someone who enjoys discovering new snacks and sharing food with friends and family.",
-      "emotional_tags": ["happiness", "comfort", "thoughtfulness"],
-      "interest_tags": ["food"],
+      "emotional_tags": [
+        "happiness",
+        "comfort",
+        "thoughtfulness"
+      ],
+      "interest_tags": [
+        "food"
+      ],
       "image_url": "",
-      "product_url": ""
+      "product_url": "",
+      "theme_tags": [
+        "celebration",
+        "shared_moments",
+        "everyday_treats"
+      ]
     },
     {
       "product_id": "TASTE010",
@@ -516,10 +984,21 @@
       "price": 499,
       "currency": "INR",
       "description": "A traditional Indian sweets assortment that brings a familiar festive feeling and makes celebrations more memorable.",
-      "emotional_tags": ["nostalgia", "happiness", "thoughtfulness"],
-      "interest_tags": ["food"],
+      "emotional_tags": [
+        "nostalgia",
+        "happiness",
+        "thoughtfulness"
+      ],
+      "interest_tags": [
+        "food"
+      ],
       "image_url": "",
-      "product_url": ""
+      "product_url": "",
+      "theme_tags": [
+        "nostalgia",
+        "cultural_heritage",
+        "celebration"
+      ]
     },
     {
       "product_id": "TOUCH001",
@@ -529,10 +1008,21 @@
       "price": 499,
       "currency": "INR",
       "description": "A soft teddy bear that makes a comforting and thoughtful gift for someone who enjoys cute keepsakes and familiar objects.",
-      "emotional_tags": ["comfort", "happiness", "nostalgia"],
-      "interest_tags": ["home_decor"],
+      "emotional_tags": [
+        "comfort",
+        "happiness",
+        "nostalgia"
+      ],
+      "interest_tags": [
+        "home_decor"
+      ],
       "image_url": "",
-      "product_url": ""
+      "product_url": "",
+      "theme_tags": [
+        "comfort",
+        "nostalgia",
+        "sentimental_gifting"
+      ]
     },
     {
       "product_id": "TOUCH002",
@@ -542,10 +1032,21 @@
       "price": 999,
       "currency": "INR",
       "description": "A plush companion designed as a cheerful gift for someone who appreciates soft toys and comforting little gifts.",
-      "emotional_tags": ["comfort", "happiness", "thoughtfulness"],
-      "interest_tags": ["home_decor"],
+      "emotional_tags": [
+        "comfort",
+        "happiness",
+        "thoughtfulness"
+      ],
+      "interest_tags": [
+        "home_decor"
+      ],
       "image_url": "",
-      "product_url": ""
+      "product_url": "",
+      "theme_tags": [
+        "comfort",
+        "cheerful_moments",
+        "thoughtful_gifting"
+      ]
     },
     {
       "product_id": "TOUCH003",
@@ -555,10 +1056,22 @@
       "price": 399,
       "currency": "INR",
       "description": "A creatively designed notebook for someone who enjoys writing down thoughts, collecting memories and expressing ideas on paper.",
-      "emotional_tags": ["creativity", "thoughtfulness", "nostalgia"],
-      "interest_tags": ["writing", "reading"],
+      "emotional_tags": [
+        "creativity",
+        "thoughtfulness",
+        "nostalgia"
+      ],
+      "interest_tags": [
+        "writing",
+        "reading"
+      ],
       "image_url": "",
-      "product_url": ""
+      "product_url": "",
+      "theme_tags": [
+        "creative_expression",
+        "personal_reflection",
+        "nostalgia"
+      ]
     },
     {
       "product_id": "TOUCH004",
@@ -568,10 +1081,22 @@
       "price": 499,
       "currency": "INR",
       "description": "A journal for someone who enjoys documenting daily experiences, maintaining personal notes and reflecting on meaningful moments.",
-      "emotional_tags": ["creativity", "relaxation", "thoughtfulness"],
-      "interest_tags": ["writing", "reading"],
+      "emotional_tags": [
+        "creativity",
+        "relaxation",
+        "thoughtfulness"
+      ],
+      "interest_tags": [
+        "writing",
+        "reading"
+      ],
       "image_url": "",
-      "product_url": ""
+      "product_url": "",
+      "theme_tags": [
+        "personal_reflection",
+        "creative_expression",
+        "relaxation"
+      ]
     },
     {
       "product_id": "TOUCH005",
@@ -581,10 +1106,21 @@
       "price": 1499,
       "currency": "INR",
       "description": "A soft blanket that adds warmth and comfort to a personal space, making it a useful gift for someone who enjoys cosy evenings.",
-      "emotional_tags": ["comfort", "relaxation", "luxury"],
-      "interest_tags": ["home_decor"],
+      "emotional_tags": [
+        "comfort",
+        "relaxation",
+        "luxury"
+      ],
+      "interest_tags": [
+        "home_decor"
+      ],
       "image_url": "",
-      "product_url": ""
+      "product_url": "",
+      "theme_tags": [
+        "cozy_comfort",
+        "relaxation",
+        "everyday_luxury"
+      ]
     },
     {
       "product_id": "TOUCH006",
@@ -594,10 +1130,22 @@
       "price": 599,
       "currency": "INR",
       "description": "A decorative cotton cushion cover that combines a pleasant fabric feel with an attractive design for someone who enjoys home styling.",
-      "emotional_tags": ["comfort", "creativity", "happiness"],
-      "interest_tags": ["home_decor", "art"],
+      "emotional_tags": [
+        "comfort",
+        "creativity",
+        "happiness"
+      ],
+      "interest_tags": [
+        "home_decor",
+        "art"
+      ],
       "image_url": "",
-      "product_url": ""
+      "product_url": "",
+      "theme_tags": [
+        "cozy_comfort",
+        "creative_expression",
+        "artistic_spaces"
+      ]
     },
     {
       "product_id": "TOUCH007",
@@ -607,10 +1155,22 @@
       "price": 399,
       "currency": "INR",
       "description": "A handmade-style bracelet that makes a personal accessory gift for someone who enjoys small, distinctive fashion pieces.",
-      "emotional_tags": ["thoughtfulness", "happiness", "creativity"],
-      "interest_tags": ["fashion", "art"],
+      "emotional_tags": [
+        "thoughtfulness",
+        "happiness",
+        "creativity"
+      ],
+      "interest_tags": [
+        "fashion",
+        "art"
+      ],
       "image_url": "",
-      "product_url": ""
+      "product_url": "",
+      "theme_tags": [
+        "personal_style",
+        "handcrafted_charm",
+        "thoughtful_gifting"
+      ]
     },
     {
       "product_id": "TOUCH008",
@@ -620,10 +1180,22 @@
       "price": 499,
       "currency": "INR",
       "description": "A fabric pouch with handcrafted character, suitable for someone who appreciates practical accessories and traditional craft.",
-      "emotional_tags": ["thoughtfulness", "creativity", "comfort"],
-      "interest_tags": ["fashion", "art"],
+      "emotional_tags": [
+        "thoughtfulness",
+        "creativity",
+        "comfort"
+      ],
+      "interest_tags": [
+        "fashion",
+        "art"
+      ],
       "image_url": "",
-      "product_url": ""
+      "product_url": "",
+      "theme_tags": [
+        "handcrafted_charm",
+        "cultural_heritage",
+        "everyday_practicality"
+      ]
     },
     {
       "product_id": "TOUCH009",
@@ -633,10 +1205,22 @@
       "price": 699,
       "currency": "INR",
       "description": "A handcrafted crochet plush keepsake for someone who appreciates handmade objects, creative work and meaningful gifts.",
-      "emotional_tags": ["comfort", "nostalgia", "thoughtfulness"],
-      "interest_tags": ["art", "home_decor"],
+      "emotional_tags": [
+        "comfort",
+        "nostalgia",
+        "thoughtfulness"
+      ],
+      "interest_tags": [
+        "art",
+        "home_decor"
+      ],
       "image_url": "",
-      "product_url": ""
+      "product_url": "",
+      "theme_tags": [
+        "handcrafted_charm",
+        "comfort",
+        "nostalgia"
+      ]
     },
     {
       "product_id": "TOUCH010",
@@ -646,10 +1230,22 @@
       "price": 499,
       "currency": "INR",
       "description": "A soft eye mask that can be included in a relaxation-themed gift box for someone who appreciates comfortable everyday accessories.",
-      "emotional_tags": ["relaxation", "comfort", "self_care"],
-      "interest_tags": ["fitness", "home_decor"],
+      "emotional_tags": [
+        "relaxation",
+        "comfort",
+        "self_care"
+      ],
+      "interest_tags": [
+        "fitness",
+        "home_decor"
+      ],
       "image_url": "",
-      "product_url": ""
+      "product_url": "",
+      "theme_tags": [
+        "relaxation",
+        "self_care",
+        "cozy_comfort"
+      ]
     }
   ]
 }

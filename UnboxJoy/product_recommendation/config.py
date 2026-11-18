@@ -112,11 +112,18 @@ PRODUCT_FIELDS = [
 # 5. Recommendation algorithm weights
 # These will be used in Phase 3.
 
+# RECOMMENDATION_WEIGHTS = {
+#     "sensory_match": 0.35,
+#     "emotional_match": 0.30,
+#     "interest_match": 0.25,
+#     "theme_match": 0.10
+# }
+
 RECOMMENDATION_WEIGHTS = {
-    "sensory_match": 0.35,
-    "emotional_match": 0.30,
-    "interest_match": 0.25,
-    "theme_match": 0.10
+    "sensory": 0.35,
+    "emotional": 0.30,
+    "interest": 0.25,
+    "theme": 0.10
 }
 
 

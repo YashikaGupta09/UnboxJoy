@@ -1,0 +1,124 @@
+{
+    "recipient_profile": {
+        "relationship": "best friend",
+        "occasion": "birthday",
+        "budget_inr": 1500,
+        "emotional_theme": "nostalgia",
+        "sensory_preferences": [
+            "sight",
+            "touch",
+            "smell"
+        ],
+        "interests": [
+            "photography",
+            "travel"
+        ]
+    },
+    "recommendations": [
+        {
+            "product_id": "SIGHT001",
+            "product_name": "Chumbak Sunville Photo Frame",
+            "brand": "Chumbak",
+            "category": "sight",
+            "price": 899,
+            "currency": "INR",
+            "description": "A vibrant and artistic photo frame designed to preserve special memories while adding a cheerful aesthetic to work desks and bedside tables.",
+            "image_url": "",
+            "product_url": "https://www.chumbak.com",
+            "emotional_tags": [
+                "nostalgia",
+                "happiness",
+                "thoughtfulness"
+            ],
+            "interest_tags": [
+                "photography",
+                "home_decor"
+            ],
+            "match_score": 0.875
+        },
+        {
+            "product_id": "SMELL010",
+            "product_name": "Rose Scented Candle",
+            "brand": "Ekam",
+            "category": "smell",
+            "price": 499,
+            "currency": "INR",
+            "description": "A rose-fragrance candle that makes a thoughtful gift for someone who enjoys floral scents, cosy surroundings and meaningful little gestures.",
+            "image_url": "",
+            "product_url": "",
+            "emotional_tags": [
+                "romantic",
+                "nostalgia",
+                "happiness"
+            ],
+            "interest_tags": [
+                "home_decor",
+                "nature"
+            ],
+            "match_score": 0.75
+        },
+        {
+            "product_id": "TOUCH001",
+            "product_name": "Teddy Bear Soft Toy",
+            "brand": "Archies",
+            "category": "touch",
+            "price": 499,
+            "currency": "INR",
+            "description": "A soft teddy bear that makes a comforting and thoughtful gift for someone who enjoys cute keepsakes and familiar objects.",
+            "image_url": "",
+            "product_url": "",
+            "emotional_tags": [
+                "comfort",
+                "happiness",
+                "nostalgia"
+            ],
+            "interest_tags": [
+                "home_decor"
+            ],
+            "match_score": 0.75
+        },
+        {
+            "product_id": "SOUND005",
+            "product_name": "Wooden Hand-Crank Music Box",
+            "brand": "Generic",
+            "category": "sound",
+            "price": 499,
+            "currency": "INR",
+            "description": "A small mechanical music box that plays a gentle melody when its hand crank is turned, making it a nostalgic keepsake for music lovers.",
+            "image_url": "",
+            "product_url": "",
+            "emotional_tags": [
+                "nostalgia",
+                "comfort",
+                "thoughtfulness"
+            ],
+            "interest_tags": [
+                "music",
+                "home_decor",
+                "reading"
+            ],
+            "match_score": 0.4
+        },
+        {
+            "product_id": "TASTE004",
+            "product_name": "South Indian Filter Coffee",
+            "brand": "The Indian Bean",
+            "category": "taste",
+            "price": 399,
+            "currency": "INR",
+            "description": "A coffee selection for someone who enjoys the familiar aroma and comforting ritual of preparing and drinking coffee.",
+            "image_url": "",
+            "product_url": "",
+            "emotional_tags": [
+                "comfort",
+                "nostalgia",
+                "relaxation"
+            ],
+            "interest_tags": [
+                "coffee",
+                "food"
+            ],
+            "match_score": 0.4
+        }
+    ]
+}
