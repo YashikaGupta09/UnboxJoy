@@ -1,0 +1,10 @@
+{
+  "test_case_id": "TC03",
+  "name": "Budget Boundary & Pricing Engine Validation",
+  "timestamp": "2026-11-18T22:53:37.006124",
+  "status": "PASSED",
+  "rejection_message": "Adding this item exceeds your \u20b9500 budget by \u20b9443.95.",
+  "budget_limit": 500.0,
+  "attempted_item_price": 800.0,
+  "details": "Verified strict budget validation prevents over-budget items."
+}
