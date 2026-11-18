@@ -1,0 +1,55 @@
+{
+  "recipient_profile": {
+    "relationship": "best friend",
+    "personality_descriptors": [
+      "creative",
+      "emotional"
+    ],
+    "interests": [
+      "photography",
+      "travel"
+    ],
+    "emotional_theme": "nostalgia",
+    "sensory_preferences": [
+      "sight",
+      "touch"
+    ],
+    "gift_style": "versatile",
+    "matching_tags": {
+      "interest_tags": [
+        "photography",
+        "travel"
+      ],
+      "emotion_tags": [
+        "nostalgia",
+        "sentimental"
+      ],
+      "sensory_tags": [
+        "sight",
+        "touch"
+      ],
+      "personality_tags": [
+        "creative",
+        "emotional"
+      ],
+      "style_tags": [
+        "versatile"
+      ],
+      "occasion_tags": [
+        "birthday"
+      ]
+    },
+    "budget_inr": 1500,
+    "profile_summary": "A best friend who is creative and emotional, loves photography and travel, seeks nostalgic moments, enjoys visual and tactile experiences, celebrating a birthday within a 1500 INR budget."
+  },
+  "recommendation_directions": [
+    "Explore nostalgic visual storytelling items that engage sight and touch, such as photo-inspired keepsakes or travel-themed tactile accessories.",
+    "Consider gifts that evoke travel memories through sensory elements, like textured maps or photo albums with personal photos."
+  ],
+  "match_rationales": [
+    "The recipient values nostalgia and visual storytelling, aligning with sight-focused, photo-related gifts.",
+    "Their tactile preference and love for travel suggest items that combine texture and travel themes will resonate."
+  ],
+  "missing_information": [],
+  "safety_note": "Ensure all gift items comply with safety standards and are appropriate for the recipient's age and preferences."
+}

@@ -1,0 +1,44 @@
+{
+  "recipient_profile": {
+    "relationship": "best friend",
+    "personality_descriptors": [
+      "creative",
+      "emotional"
+    ],
+    "interests": [
+      "photography",
+      "travel",
+      "journaling"
+    ],
+    "emotional_theme": "nostalgia",
+    "sensory_preferences": [
+      "sight",
+      "touch"
+    ],
+    "gift_style": "handcrafted",
+    "product_matching_tags": [
+      "photography",
+      "travel",
+      "journaling",
+      "nostalgic",
+      "handcrafted",
+      "personalized"
+    ],
+    "budget_inr": 1500,
+    "profile_summary": "Best friend who is creative and emotional, loves photography, travel, and journaling, prefers visual and tactile experiences, and seeks nostalgic gifts."
+  },
+  "recommendation_directions": [
+    "Create a personalized photo album or travel journal with handcrafted elements",
+    "Offer a travel-themed gift that evokes nostalgia",
+    "Include tactile items such as a custom notebook or photo frame"
+  ],
+  "match_rationales": [
+    "Photography and travel interests align with photo album and travel journal",
+    "Nostalgia theme supports personalized photo collage",
+    "Handcrafted style suits tactile preference"
+  ],
+  "missing_information": [
+    "gift style"
+  ],
+  "safety_note": "All recommendations are general and avoid sensitive topics."
+}
