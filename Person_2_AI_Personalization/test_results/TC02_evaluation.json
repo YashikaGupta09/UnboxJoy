@@ -1,0 +1,78 @@
+{
+  "test_id": "TC02",
+  "input": {
+    "relationship": "mother",
+    "personality": [
+      "caring",
+      "calm"
+    ],
+    "memories": "We spend time gardening together.",
+    "interests": [
+      "gardening",
+      "reading"
+    ],
+    "sensory_preferences": [
+      "smell",
+      "touch"
+    ],
+    "desired_emotion": "relaxation",
+    "occasion": "birthday",
+    "budget_inr": 2000
+  },
+  "generated_output": {
+    "recipient_profile": {
+      "relationship": "mother",
+      "personality_descriptors": [
+        "caring",
+        "calm"
+      ],
+      "interests": [
+        "gardening",
+        "reading"
+      ],
+      "emotional_theme": "relaxation",
+      "sensory_preferences": [
+        "smell",
+        "touch"
+      ],
+      "gift_style": "calming",
+      "product_matching_tags": [
+        "gardening",
+        "reading",
+        "relaxation",
+        "smell",
+        "touch"
+      ],
+      "budget_inr": 2000,
+      "profile_summary": "A caring and calm mother who enjoys gardening and reading, loves soothing scents and tactile experiences, and seeks relaxation."
+    },
+    "recommendation_directions": [
+      "Prioritize items that combine gardening and reading themes with soothing scents and textures.",
+      "Select products that promote relaxation and calmness.",
+      "Include sensory-friendly elements that cater to smell and touch preferences."
+    ],
+    "match_rationales": [
+      "Gardening and reading interests align with tags, supporting her hobbies.",
+      "Calming style matches her personality and desire for relaxation.",
+      "Smell and touch preferences guide selection of scented and tactile products."
+    ],
+    "missing_information": [],
+    "safety_note": "All gift suggestions should meet safety standards and be suitable for general use."
+  },
+  "automatic_evaluation": {
+    "Relationship preserved": true,
+    "Budget preserved": true,
+    "Interests preserved": true,
+    "Sensory preferences preserved": true,
+    "Emotional theme preserved": true,
+    "Matching tags generated": true,
+    "Profile summary generated": true
+  },
+  "passed_checks": 7,
+  "total_checks": 7,
+  "manual_review": {
+    "score": 8,
+    "maximum_score": 8,
+    "remarks": "Relevant interpretation of the recipient's interests and emotional goal. Recommendation directions align with gardening, reading, relaxation, smell and touch preferences. Sensory terms should be treated as product attributes during catalogue matching."
+  }
+}

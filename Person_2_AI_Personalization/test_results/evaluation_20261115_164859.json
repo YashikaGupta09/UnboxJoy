@@ -1,0 +1,17 @@
+{
+  "test_id": "TC01",
+  "relationship": "best friend",
+  "budget": 1500,
+  "automatic_checks": {
+    "Relationship preserved": true,
+    "Budget preserved": true,
+    "Interests preserved": true,
+    "Sensory preferences preserved": true,
+    "Emotional theme preserved": true,
+    "Matching tags generated": true,
+    "Profile summary generated": true
+  },
+  "passed_checks": 7,
+  "total_checks": 7,
+  "manual_review": "Pending"
+}

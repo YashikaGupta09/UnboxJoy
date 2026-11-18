@@ -1,0 +1,81 @@
+{
+  "test_id": "TC05",
+  "input": {
+    "relationship": "father",
+    "personality": [
+      "practical",
+      "thoughtful"
+    ],
+    "memories": "He has always supported our family.",
+    "interests": [
+      "reading",
+      "music"
+    ],
+    "sensory_preferences": [
+      "sound",
+      "touch"
+    ],
+    "desired_emotion": "appreciation",
+    "occasion": "father's day",
+    "budget_inr": 3000
+  },
+  "generated_output": {
+    "recipient_profile": {
+      "relationship": "father",
+      "personality_descriptors": [
+        "practical",
+        "thoughtful"
+      ],
+      "interests": [
+        "reading",
+        "music"
+      ],
+      "emotional_theme": "appreciation",
+      "sensory_preferences": [
+        "sound",
+        "touch"
+      ],
+      "gift_style": "",
+      "product_matching_tags": [
+        "books",
+        "music",
+        "practical",
+        "thoughtful",
+        "handmade"
+      ],
+      "budget_inr": 3000,
+      "profile_summary": "Practical and thoughtful father who loves reading and music, appreciates support and sound/touch sensory experiences."
+    },
+    "recommendation_directions": [
+      "Choose a practical yet thoughtful gift that aligns with his interests in reading and music.",
+      "Incorporate sensory elements such as sound or touch, e.g., a tactile book accessory or a music-related item.",
+      "Consider personalization to convey appreciation and reinforce his supportive role."
+    ],
+    "match_rationales": [
+      "Practical and thoughtful traits suggest a gift that is both useful and meaningful.",
+      "Reading and music interests point to related categories for gift options.",
+      "Sensory preferences for sound and touch can be reflected in the gift design.",
+      "Budget of 3000 INR allows for high-quality personalized items."
+    ],
+    "missing_information": [
+      "gift_style"
+    ],
+    "safety_note": "No sensitive personal data was inferred or disclosed."
+  },
+  "automatic_evaluation": {
+    "Relationship preserved": true,
+    "Budget preserved": true,
+    "Interests preserved": true,
+    "Sensory preferences preserved": true,
+    "Emotional theme preserved": true,
+    "Matching tags generated": true,
+    "Profile summary generated": true
+  },
+  "passed_checks": 7,
+  "total_checks": 7,
+  "manual_review": {
+    "score": 6,
+    "maximum_score": 8,
+    "remarks": "Relevant recommendation directions, but gift_style is empty. Matching tags omit some explicit interests and sensory preferences. Handmade is an unsupported inference from touch preference."
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "test_id": "TC04",
+  "input": {
+    "relationship": "sister",
+    "personality": [
+      "creative",
+      "determined"
+    ],
+    "memories": "She is preparing for an important academic milestone.",
+    "interests": [
+      "art",
+      "journaling"
+    ],
+    "sensory_preferences": [
+      "sight",
+      "touch"
+    ],
+    "desired_emotion": "encouragement",
+    "occasion": "graduation",
+    "budget_inr": 1000
+  },
+  "generated_output": {
+    "recipient_profile": {
+      "relationship": "sister",
+      "personality_descriptors": [
+        "creative",
+        "determined"
+      ],
+      "interests": [
+        "art",
+        "journaling"
+      ],
+      "emotional_theme": "encouragement",
+      "sensory_preferences": [
+        "sight",
+        "touch"
+      ],
+      "gift_style": "encouraging",
+      "product_matching_tags": [
+        "artistic",
+        "journaling",
+        "creative",
+        "academic",
+        "motivational",
+        "tangible",
+        "visual",
+        "graduation"
+      ],
+      "budget_inr": 1000,
+      "profile_summary": "Creative and determined sister preparing for an academic milestone, loves art and journaling, appreciates visual and tactile experiences, seeks an encouraging gift."
+    },
+    "recommendation_directions": [
+      "Offer art‑inspired journaling supplies that celebrate creativity.",
+      "Provide motivational academic tools that support study goals.",
+      "Select tactile, visually appealing items that reinforce encouragement."
+    ],
+    "match_rationales": [
+      "Creative, art, and journaling interests align with artistic and creative tags.",
+      "Academic milestone context justifies academic and motivational tags.",
+      "Sight and touch preferences support visual and tangible tags."
+    ],
+    "missing_information": [],
+    "safety_note": "Ensure the gift respects cultural sensitivities and is suitable for the graduation occasion."
+  },
+  "automatic_evaluation": {
+    "Relationship preserved": true,
+    "Budget preserved": true,
+    "Interests preserved": true,
+    "Sensory preferences preserved": true,
+    "Emotional theme preserved": true,
+    "Matching tags generated": true,
+    "Profile summary generated": true
+  },
+  "passed_checks": 7,
+  "total_checks": 7,
+  "manual_review": {
+    "score": 8,
+    "maximum_score": 8,
+    "remarks": "Relevant emotional interpretation and recommendation directions. Handcrafted is a plausible but unconfirmed inference from touch preference."
+  }
+}
