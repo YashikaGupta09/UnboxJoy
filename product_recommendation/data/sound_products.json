@@ -1,0 +1,135 @@
+
+{
+  "products": [
+    {
+      "product_id": "SOUND001",
+      "product_name": "boAt Stone 352 Bluetooth Speaker",
+      "brand": "boAt",
+      "category": "sound",
+      "price": 1499,
+      "currency": "INR",
+      "description": "A compact portable Bluetooth speaker designed to deliver music during travel, outdoor activities and everyday relaxation.",
+      "emotional_tags": ["happiness", "adventure", "relaxation"],
+      "interest_tags": ["music", "travel", "gaming"],
+      "image_url": "",
+      "product_url": ""
+    },
+    {
+      "product_id": "SOUND002",
+      "product_name": "Portronics SoundDrum Bluetooth Speaker",
+      "brand": "Portronics",
+      "category": "sound",
+      "price": 1199,
+      "currency": "INR",
+      "description": "A portable Bluetooth speaker for enjoying favourite songs, creating a pleasant atmosphere and sharing music with friends and family.",
+      "emotional_tags": ["happiness", "comfort", "relaxation"],
+      "interest_tags": ["music", "movies", "travel"],
+      "image_url": "",
+      "product_url": ""
+    },
+    {
+      "product_id": "SOUND003",
+      "product_name": "ZEB-County Bluetooth Speaker",
+      "brand": "Zebronics",
+      "category": "sound",
+      "price": 499,
+      "currency": "INR",
+      "description": "An affordable compact speaker for casual music listening at home, during study breaks or while spending time with friends.",
+      "emotional_tags": ["happiness", "comfort"],
+      "interest_tags": ["music", "movies", "gaming"],
+      "image_url": "",
+      "product_url": ""
+    },
+    {
+      "product_id": "SOUND004",
+      "product_name": "Mivi Play Bluetooth Speaker",
+      "brand": "Mivi",
+      "category": "sound",
+      "price": 799,
+      "currency": "INR",
+      "description": "A small portable speaker that makes it convenient to enjoy music and audio entertainment in personal spaces and during short trips.",
+      "emotional_tags": ["relaxation", "happiness", "comfort"],
+      "interest_tags": ["music", "travel", "movies"],
+      "image_url": "",
+      "product_url": ""
+    },
+    {
+      "product_id": "SOUND005",
+      "product_name": "Wooden Hand-Crank Music Box",
+      "brand": "Generic",
+      "category": "sound",
+      "price": 499,
+      "currency": "INR",
+      "description": "A small mechanical music box that plays a gentle melody when its hand crank is turned, making it a nostalgic keepsake for music lovers.",
+      "emotional_tags": ["nostalgia", "comfort", "thoughtfulness"],
+      "interest_tags": ["music", "home_decor", "reading"],
+      "image_url": "",
+      "product_url": ""
+    },
+    {
+      "product_id": "SOUND006",
+      "product_name": "Ballerina Musical Jewellery Box",
+      "brand": "Generic",
+      "category": "sound",
+      "price": 999,
+      "currency": "INR",
+      "description": "A decorative musical jewellery box that combines a keepsake storage space with a gentle melody, making it a sentimental gift.",
+      "emotional_tags": ["nostalgia", "happiness", "thoughtfulness"],
+      "interest_tags": ["music", "fashion", "home_decor"],
+      "image_url": "",
+      "product_url": ""
+    },
+    {
+      "product_id": "SOUND007",
+      "product_name": "Indian Music Vinyl Record",
+      "brand": "Saregama",
+      "category": "sound",
+      "price": 1499,
+      "currency": "INR",
+      "description": "A vinyl music collectible for listeners who appreciate classic recordings, physical music collections and the nostalgic experience of record listening.",
+      "emotional_tags": ["nostalgia", "happiness", "luxury"],
+      "interest_tags": ["music", "movies", "art"],
+      "image_url": "",
+      "product_url": ""
+    },
+    {
+      "product_id": "SOUND008",
+      "product_name": "Bollywood Music Vinyl LP",
+      "brand": "Saregama",
+      "category": "sound",
+      "price": 1499,
+      "currency": "INR",
+      "description": "A physical collection of Indian film music intended for listeners who enjoy classic Bollywood melodies and collecting music records.",
+      "emotional_tags": ["nostalgia", "happiness", "romantic"],
+      "interest_tags": ["music", "movies", "art"],
+      "image_url": "",
+      "product_url": ""
+    },
+    {
+      "product_id": "SOUND009",
+      "product_name": "Guitar Capo",
+      "brand": "Kadence",
+      "category": "sound",
+      "price": 299,
+      "currency": "INR",
+      "description": "A practical guitar accessory that helps players change the pitch of their instrument while exploring different songs and musical arrangements.",
+      "emotional_tags": ["creativity", "happiness", "thoughtfulness"],
+      "interest_tags": ["music", "writing"],
+      "image_url": "",
+      "product_url": ""
+    },
+    {
+      "product_id": "SOUND010",
+      "product_name": "Guitar Picks Set",
+      "brand": "Kadence",
+      "category": "sound",
+      "price": 249,
+      "currency": "INR",
+      "description": "A set of guitar picks for strumming and picking strings, making a useful small gift for guitar learners and music enthusiasts.",
+      "emotional_tags": ["creativity", "happiness"],
+      "interest_tags": ["music", "art"],
+      "image_url": "",
+      "product_url": ""
+    }
+  ]
+}

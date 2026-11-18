@@ -1,0 +1,209 @@
+
+{
+  "products": [
+    {
+      "product_id": "SIGHT001",
+      "product_name": "Chumbak Sunville Photo Frame",
+      "brand": "Chumbak",
+      "category": "sight",
+      "price": 899,
+      "currency": "INR",
+      "description": "A vibrant and artistic photo frame designed to preserve special memories while adding a cheerful aesthetic to work desks and bedside tables.",
+      "emotional_tags": [
+        "nostalgia",
+        "happiness",
+        "thoughtfulness"
+      ],
+      "interest_tags": [
+        "photography",
+        "home_decor"
+      ],
+      "image_url": "",
+      "product_url": "https://www.chumbak.com"
+    },
+    {
+      "product_id": "SIGHT002",
+      "product_name": "Grey Floral Galore Tea Light Votives Set of 2",
+      "brand": "India Circus",
+      "category": "sight",
+      "price": 1499,
+      "currency": "INR",
+      "description": "Iron tea light votives featuring vibrant botanical floral designs on a grey base, creating a warm and decorative ambience for living spaces.",
+      "emotional_tags": [
+        "relaxation",
+        "luxury",
+        "comfort"
+      ],
+      "interest_tags": [
+        "home_decor",
+        "art"
+      ],
+      "image_url": "",
+      "product_url": "https://indiacircus.com/grey-floral-galore-tea-light-votives-set-of-2.html"
+    },
+    {
+      "product_id": "SIGHT003",
+      "product_name": "White Gaj Wooden Photo Frame",
+      "brand": "Fabindia",
+      "category": "sight",
+      "price": 999,
+      "currency": "INR",
+      "description": "An artisanal wooden photo frame decorated with traditional floral and elephant motifs, making it a thoughtful keepsake for birthdays and special milestones.",
+      "emotional_tags": [
+        "nostalgia",
+        "thoughtfulness",
+        "comfort"
+      ],
+      "interest_tags": [
+        "photography",
+        "home_decor",
+        "art"
+      ],
+      "image_url": "",
+      "product_url": "https://www.fabindia.com/white-gaj-wooden-photo-frame-20291340"
+    },
+    {
+      "product_id": "SIGHT004",
+      "product_name": "Madhubani Pichwai Painting With Frame Set of 6",
+      "brand": "Art Street",
+      "category": "sight",
+      "price": 999,
+      "currency": "INR",
+      "description": "A collection of six framed traditional Indian art prints featuring Madhubani and Pichwai-inspired motifs, adding cultural character and creativity to home interiors.",
+      "emotional_tags": [
+        "creativity",
+        "happiness",
+        "thoughtfulness"
+      ],
+      "interest_tags": [
+        "art",
+        "home_decor",
+        "nature"
+      ],
+      "image_url": "",
+      "product_url": "https://artstreet.in/products/madhubani-pichwai-painting-with-frame-for-living-room-flower-framed-wall-art-painting-for-home-decor-set-of-6-size-9-5-by-12-5-inch"
+    },
+    {
+      "product_id": "SIGHT005",
+      "product_name": "50-LED Fairy Copper String Lights",
+      "brand": "Homesake",
+      "category": "sight",
+      "price": 225,
+      "currency": "INR",
+      "description": "Flexible copper wire fairy lights with 50 warm white LEDs that add a cozy decorative glow to bedrooms, jars, shelves and photo displays.",
+      "emotional_tags": [
+        "romantic",
+        "relaxation",
+        "comfort"
+      ],
+      "interest_tags": [
+        "home_decor",
+        "photography"
+      ],
+      "image_url": "",
+      "product_url": "https://www.homesake.in/products/50-led-fairy-copper-string-lights-5m-waterproof-3aa-battery-warm-white-1"
+    },
+    {
+      "product_id": "SIGHT006",
+      "product_name": "Mini Rajasthani Musician Couple Metal Showpiece Set",
+      "brand": "Kraphy",
+      "category": "sight",
+      "price": 549,
+      "currency": "INR",
+      "description": "A miniature metal figurine set depicting traditional Rajasthani folk musicians, bringing colourful cultural artistry to desks, shelves and decorative corners.",
+      "emotional_tags": [
+        "creativity",
+        "happiness",
+        "thoughtfulness"
+      ],
+      "interest_tags": [
+        "art",
+        "music",
+        "home_decor"
+      ],
+      "image_url": "",
+      "product_url": "https://kraphy.com/products/mini-rajasthani-musician-couple-metal-showpiece-set-6-inch"
+    },
+    {
+      "product_id": "SIGHT007",
+      "product_name": "Terracotta Warli Handpainted Set of 2 Pots Showpieces",
+      "brand": "ExclusiveLane",
+      "category": "sight",
+      "price": 999,
+      "currency": "INR",
+      "description": "Handcrafted terracotta miniature pots decorated with traditional Warli art motifs, offering a distinctive handmade decorative accent for tables and bookshelves.",
+      "emotional_tags": [
+        "creativity",
+        "nostalgia",
+        "thoughtfulness"
+      ],
+      "interest_tags": [
+        "art",
+        "home_decor",
+        "nature"
+      ],
+      "image_url": "",
+      "product_url": "https://exclusivelane.com/products/terracotta-warli-handpainted-pots-white-set-of-2-el-004-005"
+    },
+    {
+      "product_id": "SIGHT008",
+      "product_name": "Surreal Bricked Man Table Accent",
+      "brand": "The Artment",
+      "category": "sight",
+      "price": 749,
+      "currency": "INR",
+      "description": "A sculptural tabletop figurine inspired by surrealist art that adds visual curiosity and a creative touch to study desks, bookshelves and workspaces.",
+      "emotional_tags": [
+        "creativity",
+        "thoughtfulness"
+      ],
+      "interest_tags": [
+        "art",
+        "home_decor",
+        "reading"
+      ],
+      "image_url": "",
+      "product_url": "https://theartment.com/products/surreal-bricked-man-table-accent"
+    },
+    {
+      "product_id": "SIGHT009",
+      "product_name": "Violet Romantic Couple Musical Snow Globe",
+      "brand": "Archies",
+      "category": "sight",
+      "price": 999,
+      "currency": "INR",
+      "description": "A decorative snow globe featuring a romantic couple and swirling snowflake details, designed as a sentimental keepsake for special occasions.",
+      "emotional_tags": [
+        "romantic",
+        "nostalgia",
+        "happiness"
+      ],
+      "interest_tags": [
+        "home_decor",
+        "art"
+      ],
+      "image_url": "",
+      "product_url": "https://archiesonline.com/products/violet-romantic-couple-musical-snow-globe"
+    },
+    {
+      "product_id": "SIGHT010",
+      "product_name": "Abstract Indian Traditional A3 Framed Poster",
+      "brand": "Art Street",
+      "category": "sight",
+      "price": 999,
+      "currency": "INR",
+      "description": "A ready-to-hang A3 framed poster featuring traditional Indian-inspired motifs and artistic patterns, adding a contemporary cultural touch to home interiors.",
+      "emotional_tags": [
+        "creativity",
+        "thoughtfulness",
+        "relaxation"
+      ],
+      "interest_tags": [
+        "art",
+        "home_decor"
+      ],
+      "image_url": "",
+      "product_url": "https://artstreet.in/products/abstract-indian-traditional-a3-framed-poster-for-living-room-with-frame-womens-day-gift-abstract-architecture-framed-posters-for-home-decor-bedroom"
+    }
+  ]
+}
