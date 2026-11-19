@@ -1,0 +1,51 @@
+{
+  "recipient_profile": {
+    "relationship": "friend",
+    "occasion": "birthday",
+    "personality_descriptors": [
+      "adventurous",
+      "sentimental",
+      "balanced"
+    ],
+    "interests": [
+      "travel",
+      "photography"
+    ],
+    "emotional_theme": "nostalgia",
+    "sensory_preferences": [
+      "smell",
+      "taste",
+      "sight"
+    ],
+    "gift_style": "versatile",
+    "matching_tags": {
+      "interest_tags": [
+        "travel",
+        "photography"
+      ],
+      "emotion_tags": [
+        "nostalgia",
+        "happiness"
+      ],
+      "sensory_tags": [
+        "sight",
+        "smell",
+        "taste"
+      ],
+      "personality_tags": [
+        "adventurous",
+        "sentimental",
+        "balanced"
+      ],
+      "style_tags": [
+        "versatile"
+      ],
+      "occasion_tags": [
+        "birthday"
+      ]
+    },
+    "budget_inr": 1500,
+    "profile_summary": "Aarav is a friend who loves travel and photography, adventurous yet sentimental, balanced, enjoys sights, smells, and tastes, and seeks nostalgic feelings on his birthday. User constraints: Avoid overly expensive or strongly scented gifts."
+  },
+  "top_n": 5
+}

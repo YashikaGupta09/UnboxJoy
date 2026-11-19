@@ -1,36 +1,41 @@
 {
   "recipient_profile": {
-    "relationship": "best friend",
+    "relationship": "friend",
+    "occasion": "birthday",
     "personality_descriptors": [
-      "creative",
-      "emotional"
+      "adventurous",
+      "sentimental",
+      "balanced"
     ],
     "interests": [
-      "photography",
-      "travel"
+      "travel",
+      "photography"
     ],
     "emotional_theme": "nostalgia",
     "sensory_preferences": [
-      "sight",
-      "touch"
+      "smell",
+      "taste",
+      "sight"
     ],
     "gift_style": "versatile",
     "matching_tags": {
       "interest_tags": [
-        "photography",
-        "travel"
+        "travel",
+        "photography"
       ],
       "emotion_tags": [
         "nostalgia",
-        "sentimental"
+        "happiness"
       ],
       "sensory_tags": [
         "sight",
-        "touch"
+        "smell",
+        "taste"
       ],
       "personality_tags": [
-        "creative",
-        "emotional"
+        "adventurous",
+        "sentimental",
+        "balanced"
       ],
       "style_tags": [
         "versatile"
@@ -40,16 +45,19 @@
       ]
     },
     "budget_inr": 1500,
-    "profile_summary": "A best friend who is creative and emotional, loves photography and travel, seeks nostalgic moments, enjoys visual and tactile experiences, celebrating a birthday within a 1500 INR budget."
+    "profile_summary": "Aarav is a friend who loves travel and photography, adventurous yet sentimental, balanced, enjoys sights, smells, and tastes, and seeks nostalgic feelings on his birthday. User constraints: Avoid overly expensive or strongly scented gifts."
   },
   "recommendation_directions": [
-    "Explore nostalgic visual storytelling items that engage sight and touch, such as photo-inspired keepsakes or travel-themed tactile accessories.",
-    "Consider gifts that evoke travel memories through sensory elements, like textured maps or photo albums with personal photos."
+    "Create a travel-inspired sensory experience that highlights visual and gustatory elements.",
+    "Curate photography-themed items that celebrate shared memories without relying on strong fragrances.",
+    "Offer nostalgic, taste-based treats that evoke past adventures.",
+    "Include sight-focused memorabilia or artwork that captures travel moments."
   ],
   "match_rationales": [
-    "The recipient values nostalgia and visual storytelling, aligning with sight-focused, photo-related gifts.",
-    "Their tactile preference and love for travel suggest items that combine texture and travel themes will resonate."
+    "The recipient’s desire for nostalgia aligns with the emotional theme of the gift.",
+    "Sensory preferences for sight, smell, and taste guide the selection of sensory-rich, non-scented items.",
+    "Interests in travel and photography suggest experiential or themed gifts that evoke shared memories."
   ],
   "missing_information": [],
-  "safety_note": "Ensure all gift items comply with safety standards and are appropriate for the recipient's age and preferences."
+  "safety_note": "All recommendations respect the avoidance of overly expensive or strongly scented gifts and comply with safety standards."
 }
