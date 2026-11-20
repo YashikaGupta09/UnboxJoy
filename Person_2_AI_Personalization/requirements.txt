@@ -1,2 +1,7 @@
+
+Flask
+flask-cors
 groq
 pydantic
+requests
+gunicorn
