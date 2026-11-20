@@ -12,11 +12,12 @@ from Gift_Box_Builder.backend.app import create_app
 
 if __name__ == "__main__":
     app = create_app()
+    port = 5002
     print("\n=======================================================")
     print("  🎁 UNBOXJOY: GIFT BOX BUILDER & CART (MODULE 4)")
     print("=======================================================")
-    print("  Server running at:  http://localhost:5000")
+    print(f"  Server running at:  http://localhost:{port}")
     print("  Open this link in your web browser to use the app.")
     print("  Press Ctrl+C to stop the server.")
     print("=======================================================\n")
-    app.run(host="0.0.0.0", port=5000, debug=True)
+    app.run(host="0.0.0.0", port=port, debug=True)
