@@ -1,9 +1,9 @@
 {
   "test_case_id": "TC05",
   "name": "End-to-End Checkout & Unboxing Experience",
-  "timestamp": "2026-11-21T01:01:11.720033",
+  "timestamp": "2026-11-21T01:12:14.904909",
   "status": "PASSED",
-  "order_id": "UBJ-20261121-670D28",
+  "order_id": "UBJ-20261121-E60C9E",
   "status_code": "confirmed",
   "recipient": "Aditi Sharma",
   "packaging": "Midnight Matte Luxe Box",
