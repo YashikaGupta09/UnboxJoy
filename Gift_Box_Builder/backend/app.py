@@ -32,6 +32,7 @@ except (ImportError, ValueError):
 BASE_DIR = BACKEND_DIR.parent
 FRONTEND_DIR = BASE_DIR / "frontend"
 INPUTS_DIR = BASE_DIR / "inputs"
+MODULE3_OUTPUT_PATH = BASE_DIR.parent / "UnboxJoy" / "product_recommendation" / "recommendations_output.json"
 MODULE3_DATA_PATH = BASE_DIR.parent / "UnboxJoy" / "product_recommendation" / "data" / "products.json"
 
 
@@ -51,31 +52,42 @@ def create_app(test_config: Optional[dict] = None) -> Flask:
         return sessions[session_id]
 
     def load_catalog_products() -> List[Product]:
-        """Loads products from inputs/sample_recommendations.json or Module 3 products.json."""
+        """Loads products from inputs/sample_recommendations.json, Module 3 output, or products.json."""
+        # 1. Primary: Load module contract catalog
         sample_path = INPUTS_DIR / "sample_recommendations.json"
-        products: List[Product] = []
-
         if sample_path.exists():
             try:
                 with open(sample_path, "r", encoding="utf-8") as f:
                     data = json.load(f)
                     items = data.get("recommendations", [])
-                    products = [Product.from_dict(item) for item in items]
-                    return products
+                    if items:
+                        return [Product.from_dict(item) for item in items]
             except Exception as e:
                 app.logger.warning(f"Could not load sample_recommendations: {e}")
 
+        # 2. Try Person 3's generated output
+        if MODULE3_OUTPUT_PATH.exists():
+            try:
+                with open(MODULE3_OUTPUT_PATH, "r", encoding="utf-8") as f:
+                    data = json.load(f)
+                    items = data.get("recommendations", [])
+                    if items:
+                        return [Product.from_dict(item) for item in items]
+            except Exception as e:
+                app.logger.warning(f"Could not load from recommendations_output.json: {e}")
+
+        # 3. Try Person 3's master products.json
         if MODULE3_DATA_PATH.exists():
             try:
                 with open(MODULE3_DATA_PATH, "r", encoding="utf-8") as f:
                     data = json.load(f)
                     items = data.get("products", data) if isinstance(data, dict) else data
-                    products = [Product.from_dict(item) for item in items]
-                    return products
+                    if items:
+                        return [Product.from_dict(item) for item in items]
             except Exception as e:
                 app.logger.warning(f"Could not load Module 3 products: {e}")
 
-        return products
+        return []
 
     # Cache products
     catalog_products = load_catalog_products()
@@ -119,11 +131,18 @@ def create_app(test_config: Optional[dict] = None) -> Flask:
             "sensory_preferences": ["sight", "touch", "smell"]
         }
 
-        # Check if sample file has a profile
-        sample_path = INPUTS_DIR / "sample_recommendations.json"
-        if sample_path.exists():
+        # Check Person 3 generated output first
+        if MODULE3_OUTPUT_PATH.exists():
             try:
-                with open(sample_path, "r", encoding="utf-8") as f:
+                with open(MODULE3_OUTPUT_PATH, "r", encoding="utf-8") as f:
+                    d = json.load(f)
+                    if "recipient_profile" in d:
+                        profile = d["recipient_profile"]
+            except Exception:
+                pass
+        elif (INPUTS_DIR / "sample_recommendations.json").exists():
+            try:
+                with open(INPUTS_DIR / "sample_recommendations.json", "r", encoding="utf-8") as f:
                     d = json.load(f)
                     if "recipient_profile" in d:
                         profile = d["recipient_profile"]
@@ -315,6 +334,6 @@ def create_app(test_config: Optional[dict] = None) -> Flask:
 
 if __name__ == "__main__":
     app = create_app()
-    port = int(os.environ.get("PORT", 5000))
+    port = int(os.environ.get("PORT", 5002))
     print(f"Starting UnboxJoy Gift Box Builder API on http://localhost:{port}")
     app.run(host="0.0.0.0", port=port, debug=True)
